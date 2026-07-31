@@ -4,7 +4,7 @@ import com.bank.account.AccountManager;
 import com.bank.model.Account;
 
 import java.io.FileInputStream;
-import java.lang.List;
+import java.util.List;
 import java.util.Properties;
 import java.util.Timer;
 import java.util.TimerTask;
