@@ -4,7 +4,7 @@
 
 The Banking Simulator is a Java-based application that simulates basic banking operations. It allows users to create accounts, deposit and withdraw money, transfer funds, and manage account details. The application uses MySQL for data storage and follows a modular package structure for better maintainability.
 
-## Features
+
 
 * Create and manage bank accounts
 * Deposit and withdraw money
