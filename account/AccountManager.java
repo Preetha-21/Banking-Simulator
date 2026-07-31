@@ -1,7 +1,7 @@
 package com.bank.account;
 
 import com.bank.db.DatabaseConnection;
-import com.bank.model.Account
+import com.bank.model.Account;
 
 import java.sql.*;
 import java.util.*;
