@@ -1,6 +1,6 @@
 package com.bank.alert;
 
-import com.bank.model.Transaction;
+import com.bank.model.Account;
 import com.bank.model.Transaction;
 
 import java.io.FileInputStream;
