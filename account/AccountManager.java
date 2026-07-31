@@ -9,8 +9,9 @@ import java.util.Scanner;
 
 public class AccountManager {
     private List<Account> accounts = new ArrayList<>();
-
-    
+    public AccountManager() {
+        loadAccountsFromDatabase();
+    }
 
     private void loadAccountsFromDatabase() {
         String sql = "SELECT * FROM accounts";
