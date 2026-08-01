@@ -1,6 +1,6 @@
 package com.bank.dao;
 
-import com.bank.db.DatabaseConnections;
+import com.bank.db.DatabaseConnection;
 import com.bank.model.Transaction;
 
 import java.sql.*;
