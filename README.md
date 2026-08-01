@@ -11,7 +11,7 @@ The Banking Simulator is a Java-based application that simulates basic banking o
 * Transfer funds between accounts
 * View account details
 * Transaction logging
-* Balance alert functionality
+* Balance alert functionality though email
 * MySQL database integration using JDBC
 
 ## Technologies Used
