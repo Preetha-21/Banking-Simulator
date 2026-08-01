@@ -20,7 +20,7 @@ The Banking Simulator is a Java-based application that simulates basic banking o
 * Maven
 * MySQL
 * JDBC
-* Object-Oriented Programming (OOP)
+* Object-Oriented Programming 
 
 ## Project Structure
 
